@@ -1,4 +1,4 @@
-# auto-green
+# commit-record
 
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
 
